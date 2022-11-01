@@ -13,9 +13,7 @@ Body Mass Index calculator. Based on the user's weight and height, it will calcu
 * Color literals.
 
 
-<table>
-    <tr>
-    <td><img src="Documentation/readme-screenshot-one.png" width=270 height=480></td>
-    <td><img src="Documentation/readme-screenshot-two.png" width=270 height=480></td>
+<tr>
+  <td><img src="Documentation/readme-screenshot-one.png" width=270 height=480></td>
+  <td><img src="Documentation/readme-screenshot-two.png" width=270 height=480></td>
 </tr>
-</table>
